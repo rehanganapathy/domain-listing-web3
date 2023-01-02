@@ -1,5 +1,8 @@
 # ETH Daddy 
 
+A website that lets you list web3 domains and buy and sell them
+
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
